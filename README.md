@@ -1,16 +1,17 @@
 # pigeon_sample
 
-A new Flutter project.
+A Flutter project.
+
+Flutter 3.16.9  • channel dev
+
+Dart SDK version: 3.2.6 
+pigeon: ^20.0.1
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project Flutter Native communitation with Flutter SDK Pigeon
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/ketan7055/pigeon_sample/assets/33648294/454c2bd6-80fd-4f80-aa3e-2fbf56c31389" width="200" height="400" />  
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/ketan7055/pigeon_sample/assets/33648294/2a231771-5819-4ba4-8e07-ffc20061842a" width="200" height="400" />  
